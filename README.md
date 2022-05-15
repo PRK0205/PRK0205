@@ -18,5 +18,3 @@ Last but not least Prav is the CEO of @wearelastdoor, a design-driven tech compa
 Open for collaboration, networking, and partnerships on meaningful, value and propose driven ideas. 
 
 Let’s chat.
-
-# Profile as Entrepreneur

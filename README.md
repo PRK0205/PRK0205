@@ -3,6 +3,7 @@
 
 - 🌱 Learning: **Kaizen**
 - 📫 Reach Me: hey@prav.co
+- https://www.linkedin.com/in/pravashkarki/
 
 Pravash Karki (Prav) dreams of a better world. He hopes for a better life, of a just and equitable society.
 

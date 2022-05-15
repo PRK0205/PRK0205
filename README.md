@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @PRK0205 (Pravash Karki)
+- 👋 Hi, I’m @pravco (Pravash Karki)
 - 🌱 Learning: **Data Science**
 - 📫 Reach Me: hey@prav.co

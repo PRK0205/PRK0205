@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @pravco (Pravash Karki)
-#### Entrepreneur. Mentor. Educator. Artist. Designer (HCI/UX, UI, UCD, AI, Kaizen)
+#### CEO at Last Door ✪ Designer (HCI/UX, UI, UCD) | MSc Data Analytics Student at London Met
 
-- 🌱 Learning: **Kaizen**
+- 🌱 Learning: **Data Science**
 - 📫 Reach Me: hey@prav.co
 - https://www.linkedin.com/in/pravashkarki/
 

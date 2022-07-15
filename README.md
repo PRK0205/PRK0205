@@ -1,9 +1,8 @@
 ## 👋 Hi, I’m @pravco (Pravash Karki)
 #### CEO at Last Door ✪ Designer (HCI/UX, UI, UCD) | MSc Data Analytics Student at London Met
 
-- 🌱 Learning: **Data Science**
-- 📫 Reach Me: hey@prav.co
-- https://www.linkedin.com/in/pravashkarki/
+- 🌱 Learning: **Mastering HCI**
+- 📫 Reach Me: https://www.linkedin.com/in/pravashkarki/
 
 Pravash Karki (Prav) dreams of a better world. He hopes for a better life, of a just and equitable society.
 
@@ -18,6 +17,3 @@ Last but not least Prav is the CEO of [@wearelastdoor](https://lastdoorsolutions
 Open for collaboration, networking, and partnerships on meaningful, value and propose driven ideas. 
 
 Let’s chat.
-
-
-

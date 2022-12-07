@@ -1,8 +1,11 @@
+# Full-stack designer, Open-source expert you need for your next project!
 ## 👋 Hi, I’m @pravco (Pravash Karki)
 #### CEO at Last Door ✪ Designer (HCI/UX, UI, UCD) | MSc Data Analytics Student at London Met
 
 - 🌱 Learning: **Mastering HCI**
 - 📫 Reach Me: https://www.linkedin.com/in/pravashkarki/
+- 🙊 Hobby: Design & Code
+- 🕸 Web: http://pravashkarki.com
 
 Pravash Karki (Prav) dreams of a better world. He hopes for a better life, of a just and equitable society.
 

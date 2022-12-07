@@ -1,5 +1,5 @@
 # Full-stack designer, Open-source expert you need for your next project!
-## 👋 Hi, I’m @pravco (Pravash Karki)
+## 👋 Hi, I’m @pravashkarki (Pravash Karki)
 #### CEO at Last Door ✪ Designer (HCI/UX, UI, UCD) | MSc Data Analytics Student at London Met
 
 - 🌱 Learning: **Mastering HCI**

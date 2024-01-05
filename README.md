@@ -11,5 +11,7 @@ If you seek a reliable, innovative, and dedicated team to collaborate. Feel free
 
 For 2024, I am focusing on Crafting tools & resources for designers who love to build fast and think faster | Your go-to for a slick design workflow #DesignSmarter #DesignFaster 👉 [http://pravash.gumroad.com](http://pravash.gumroad.com)
 
+---
+
 - 📫 Let's Connect: [https://www.linkedin.com/in/pravashkarki/](https://www.linkedin.com/in/pravashkarki/)
 - 🕸 Work: [http://lastdoorsolutions.com](http://lastdoorsolutions.com)

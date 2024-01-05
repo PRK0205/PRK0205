@@ -1,4 +1,5 @@
-# 👋 Hi, I am Pravash - Product Designer & CEO at Last Door.
+# 👋 Hi, I am Pravash Karki
+### Product Designer & CEO at Last Door
 
 
 I lead a team of talented designers and developers at [Last Door](http://lastdoorsolutions.com), who create world-class websites and apps. 

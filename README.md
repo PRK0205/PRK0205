@@ -1,22 +1,15 @@
-# Full-stack designer, Open-source expert you need for your next project!
-## 👋 Hi, I’m @pravashkarki (Pravash Karki)
-#### CEO at Last Door ✪ Designer (HCI/UX, UI, UCD) | MSc Data Analytics Student at London Met
+# 👋 Hi, I am Pravash - Product Designer & CEO at Last Door.
 
-- 🌱 Learning: **Mastering HCI**
-- 📫 Reach Me: https://www.linkedin.com/in/pravashkarki/
-- 🙊 Hobby: Design & Code
-- 🕸 Web: http://pravashkarki.com
 
-Pravash Karki (Prav) dreams of a better world. He hopes for a better life, of a just and equitable society.
+I lead a team of talented designers and developers at [Last Door](http://lastdoorsolutions.com), who create world-class websites and apps. 
 
-Prav is a driven and passionate entrepreneur with the heart of a lion. Born and raised in Nepal, he earned his digital media degree from the United Kingdom. 
+We specialise in crafting visually stunning, scalable, and user-friendly custom websites using Drupal and WordPress. 
 
-Driven by a passion for creative expression, he’s spent years building up his skill set while working on various projects, partners, and clients worldwide.
+If you seek a reliable, innovative, and dedicated team to collaborate. Feel free to reach out.
 
-He’s a problem solver and enjoys Simplifying complex issues. He is a mentor who, help people reach their highest potential.
+---
 
-Last but not least Prav is the CEO of [@wearelastdoor](https://lastdoorsolutions.com "Last Door's Homepage"), a design-driven tech company that specializes in B2B enterprise-grade Drupal & WordPress CMS design and Development.
+For 2024, I am focusing on Crafting tools & resources for designers who love to build fast and think faster | Your go-to for a slick design workflow #DesignSmarter #DesignFaster 👉 [http://pravash.gumroad.com](http://pravash.gumroad.com)
 
-Open for collaboration, networking, and partnerships on meaningful, value and propose driven ideas. 
-
-Let’s chat.
+- 📫 Let's Connect: [https://www.linkedin.com/in/pravashkarki/](https://www.linkedin.com/in/pravashkarki/)
+- 🕸 Work: [http://lastdoorsolutions.com](http://lastdoorsolutions.com)
